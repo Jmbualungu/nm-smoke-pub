@@ -1,0 +1,7 @@
+# nm-smoke-pub
+
+Throwaway PUBLIC repo to verify the no-mistakes pipeline end-to-end (incl. green CI).
+
+## API
+
+- `add(a, b)` — returns the sum of two numbers.
