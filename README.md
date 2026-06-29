@@ -5,3 +5,4 @@ Throwaway PUBLIC repo to verify the no-mistakes pipeline end-to-end (incl. green
 ## API
 
 - `add(a, b)` — returns the sum of two numbers.
+- `multiply(a, b)` — returns the product of two numbers.
